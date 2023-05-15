@@ -1,7 +1,7 @@
-## PostgreSQL_Case_Study_Pizza_Runner_GKLRN_Assessment.
-# This case study covers two areas of focus: Pizza Metrics and Runner/Customer Experience.
+# PostgreSQL_Case_Study_Pizza_Runner_GKLRN_Assessment.
+## This case study covers two areas of focus: Pizza Metrics and Runner/Customer Experience.
 
-Introduction to case study
+### Introduction to case study
 =========================================
 Did you know that over 250 million kilograms of pizza is consumed daily worldwide???
 
