@@ -3,6 +3,7 @@
 
 ### Introduction to case study
 =========================================
+
 Did you know that over 250 million kilograms of pizza is consumed daily worldwide???
 
 A group of friends started Planning to open a restaurent where pizza alone was not going to help him get seed funding to expand there new Pizza Empire
